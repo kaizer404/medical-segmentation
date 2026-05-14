@@ -1,0 +1,9 @@
+data/
+checkpoints/
+checkpoints_attention/
+results/
+results_uncertainty/
+__pycache__/
+*.pyc
+gpu-env/
+*.pth
